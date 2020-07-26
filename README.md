@@ -1,4 +1,10 @@
+👋 Hi! I'm Eduardo Sanjurjo (@SanjurjoEduardo)
 
+Software Engineering
+     LinkedIn:  https://www.linkedin.com/in/eduardosanjurjomartinez
+     Twitter:   https://twitter.com/SanjurjoEduardo
+     GitHub:    https://github.com/esanmar
+    
 <p align="center">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php", style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html", style="vertical-align:top; margin:4px">
