@@ -3,7 +3,9 @@
 Software Engineering
 <br/>
      LinkedIn:  https://www.linkedin.com/in/eduardosanjurjomartinez
+<br/>     
      Twitter:   https://twitter.com/SanjurjoEduardo
+<br/>
      GitHub:    https://github.com/esanmar
     
 <p align="center">
