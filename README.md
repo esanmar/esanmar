@@ -18,6 +18,7 @@ Software Engineering
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/devices/pc.svg" alt="pc", style="vertical-align:top; margin: 4px">
 </p>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esanmar)](https://github.com/esanmar/github-readme-stats)
+<br/>
 ![Esanmar's github stats](https://github-readme-stats.vercel.app/api?username=esanmar&show_icons=true&title_color=6e6e6e&icon_color=50fa76&text_color=6e6e6e&hide_border=true)
 
