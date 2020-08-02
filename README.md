@@ -9,6 +9,7 @@ Software Engineering
      GitHub:    https://github.com/esanmar
     
 <p align="center">
+   <img src="https://customer-stories-feed.github.com/customer_stories/sap/logo.svgg" alt="SAP", style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="java", style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/php.svg" alt="php", style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="html", style="vertical-align:top; margin:4px">
