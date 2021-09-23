@@ -20,11 +20,10 @@ Software Engineering
 </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esanmar)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esanmar&layout=compact)
 <br/>
-![Esanmar's github stats](https://github-readme-stats.vercel.app/api?username=esanmar&show_icons=true)
+![Esanmar's github stats](https://github-readme-stats.vercel.app/api?username=esanmar&show_icons=true&include_all_commits=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esanmar&layout=compact&include_all_commits=true)
 
 
