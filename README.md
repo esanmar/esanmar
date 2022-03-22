@@ -9,6 +9,7 @@ Software Engineering
      GitHub:    https://github.com/esanmar
 <br />
 
+[MEMORIA_EduardoSanjurjo.pdf](https://github.com/esanmar/esanmar/files/8327653/MEMORIA_EduardoSanjurjo.pdf)
 
 
 https://user-images.githubusercontent.com/14100142/154474235-7fb5fd6a-2dce-4e57-b236-6ae0323f91ca.mp4
