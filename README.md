@@ -2,9 +2,6 @@
 
 Software Engineering
 <br/>
-
-
-<br/>
      LinkedIn:  https://www.linkedin.com/in/eduardosanjurjomartinez
 <br/>     
      Twitter:   https://twitter.com/SanjurjoEduardo
