@@ -2,7 +2,8 @@
 
 Software Engineering
 <br/>
-[MEMORIA_EduardoSanjurjo.pdf](https://github.com/esanmar/esanmar/files/8327653/MEMORIA_EduardoSanjurjo.pdf)
+
+
 <br/>
      LinkedIn:  https://www.linkedin.com/in/eduardosanjurjomartinez
 <br/>     
