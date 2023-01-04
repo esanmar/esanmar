@@ -9,7 +9,7 @@ Software Engineering
 
 
 
-[MEMORIA_EduardoSanjurjo-english.pdf](https://github.com/esanmar/esanmar/files/10343103/MEMORIA_EduardoSanjurjo-english.pdf)
+[Resume-English.pdf](https://github.com/esanmar/esanmar/files/10343103/MEMORIA_EduardoSanjurjo-english.pdf)
 
 
 <br/>
