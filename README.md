@@ -6,8 +6,8 @@ Software Engineering
 <br/>     
      Twitter:   https://twitter.com/SanjurjoEduardo
 <br/>
-     GitHub:    https://github.com/esanmar
-<br/>
+
+
 
 [MEMORIA_EduardoSanjurjo-english.pdf](https://github.com/esanmar/esanmar/files/10343103/MEMORIA_EduardoSanjurjo-english.pdf)
 
