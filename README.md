@@ -11,9 +11,9 @@ Software Engineering
 
 [Resume-English.pdf](https://github.com/esanmar/esanmar/files/10343103/MEMORIA_EduardoSanjurjo-english.pdf)
 <br/>
-[MEMORIA_EduardoSanjurjo.pdf](https://github.com/esanmar/esanmar/raw/master/MEMORIACurricular_EduardoSanjurjo.pdf)
+[MEMORIA_EduardoSanjurjo.pdf](https://github.com/esanmar/esanmar/raw/master/MEMORIA_EduardoSanjurjo.pdf)
 <br/>
-[MEMORIA_EduardoSanjurjo.pdf](https://github.com/esanmar/esanmar/files/8697429/MEMORIA_EduardoSanjurjo.pdf)
+<!-- [MEMORIA_EduardoSanjurjo.pdf](https://github.com/esanmar/esanmar/files/8697429/MEMORIA_EduardoSanjurjo.pdf) -->
 
 <br/>
 <br/>
